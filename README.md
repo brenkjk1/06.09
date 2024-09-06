@@ -1,17 +1,24 @@
-# Projeto aula 06-09
- 
-## HTML + css
- 
-Nessa aula tivemos alguns conceitos importantes sobre html + css
- 
- 
-## Referência
- 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+## 🚀 Sobre mim
+ Me chamo Breno, tenho 22 anos. Cursei Téc. ADM e atualmente estudo formatação front-end no Senac.
 
-## Autor
+## 🛠 Habilidades
+Desenvolvendo conhecimento sobre HTML, CSS e JavaScript.
 
-- [@Breno] (hhtps://wwwgithub.com/brenkjk1)
 
+## Outras seções comuns em perfis do GitHub
+👩‍💻 Trabalho atualmente na Mcassab.
+
+🧠 Estou aprendendo formatação front-end
+
+👯‍♀️ Procuro colaborar com o trabalho em grupo
+
+🤔 Procuro ajuda com plataformas de ensino.
+
+📫 Como entrar em contato comigo através: https://github.com/brenkjk1
+
+😄 Pronomes: ele/dele
+
+⚡️ Fatos engraçados: tenho 3 mamilos 😁
+
+
+![Logo](https://cdn-icons-png.flaticon.com/512/4668/4668040.png)
